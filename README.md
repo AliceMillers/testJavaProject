@@ -1,1 +1,0 @@
-### My test project for using java with junit tests.
